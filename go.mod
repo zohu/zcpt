@@ -1,4 +1,4 @@
-module zcpt
+module github.com/zohu/zcpt
 
 go 1.25
 
